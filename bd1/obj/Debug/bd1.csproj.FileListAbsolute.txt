@@ -1,0 +1,21 @@
+c:\users\taras\documents\visual studio 2013\Projects\bd1\bd1\bin\Debug\bd1.exe.config
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\bin\Debug\bd1.exe
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\bin\Debug\bd1.pdb
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\obj\Debug\bd1.Form1.resources
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\obj\Debug\bd1.Properties.Resources.resources
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\obj\Debug\bd1.csproj.GenerateResource.Cache
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\obj\Debug\bd1.exe
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\obj\Debug\bd1.pdb
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\obj\Debug\bd1.Form2.resources
+C:\Users\Taras\Documents\Visual Studio 2013\Projects\bd1\bd1\obj\Debug\bd1.csprojResolveAssemblyReference.cache
+E:\Раб_стол4_08_15\Projects\bd1\bd1\bin\Debug\bd1.exe.config
+E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.exe
+E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.pdb
+E:\Раб_стол4_08_15\Projects\bd1\bd1\bin\Debug\bd1.exe
+E:\Раб_стол4_08_15\Projects\bd1\bd1\bin\Debug\bd1.pdb
+E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.csprojResolveAssemblyReference.cache
+E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.Form1.resources
+E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.Form2.resources
+E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.Properties.Resources.resources
+E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.csproj.GenerateResource.Cache
+C:\Projects\bd1\bd1\bin\Debug\bd1.exe.config
