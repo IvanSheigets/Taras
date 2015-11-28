@@ -19,3 +19,4 @@ E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.Form2.resources
 E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.Properties.Resources.resources
 E:\Раб_стол4_08_15\Projects\bd1\bd1\obj\Debug\bd1.csproj.GenerateResource.Cache
 C:\Projects\bd1\bd1\bin\Debug\bd1.exe.config
+C:\Taras\bd1\bin\Debug\bd1.exe.config

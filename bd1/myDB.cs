@@ -105,6 +105,10 @@ namespace bd1
             return status;
         }
 
+        public void qwert()
+        {
+ 
+        }
 
         public int SetConnectionParams(string dataBase, string dataSource, string user, string password)
         {
